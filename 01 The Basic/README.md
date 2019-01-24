@@ -25,4 +25,20 @@
             <img src="01_02.png" alt="Basic - 2" width="70%">
         </td>
     </tr>
+    <tr align="center" valign="middle">
+        <td>
+            <h3>Basic - 3</h3>
+        </td>
+        <td>
+            <h3>Basic - 4</h3>
+        </td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td>
+            <img src="01_03.png" alt="Basic - 3" width="70%">
+        </td>
+        <td>
+            <img src="01_04.png" alt="Basic - 4" width="70%">
+        </td>
+    </tr>
 </table>

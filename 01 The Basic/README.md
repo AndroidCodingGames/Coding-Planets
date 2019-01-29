@@ -57,4 +57,20 @@
             <img src="01_06.png" alt="Basic - 6" width="70%">
         </td>
     </tr>
+    <tr align="center" valign="middle">
+        <td>
+            <h3>Basic - 7</h3>
+        </td>
+        <td>
+            <h3>Basic - 8</h3>
+        </td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td>
+            <img src="01_07.png" alt="Basic - 7" width="70%">
+        </td>
+        <td>
+            <img src="01_08.png" alt="Basic - 8" width="70%">
+        </td>
+    </tr>
 </table>

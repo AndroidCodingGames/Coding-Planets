@@ -6,7 +6,7 @@
             <img src="the_basic.png" alt="the basic" width="70%">
         </td>
         <td>
-            <img src="" alt="Basic All Levels" width="70%">
+            <img src="01_levels.png" alt="Basic All Levels" width="70%">
         </td>
     </tr>
     <tr align="center" valign="middle">

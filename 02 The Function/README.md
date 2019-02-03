@@ -29,4 +29,12 @@
         <td> <img src="02_05.png" alt="Function - 5" width="70%"> </td>
         <td> <img src="02_06.png" alt="Function - 6" width="70%"> </td>
     </tr>
+    <tr align="center" valign="middle">
+        <td> <h3>Function - 7</h3> </td>
+        <td> <h3>Function - 8</h3> </td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td> <img src="02_07.png" alt="Function - 7" width="70%"> </td>
+        <td> <img src="02_08.png" alt="Function - 8" width="70%"> </td>
+    </tr>
 </table>

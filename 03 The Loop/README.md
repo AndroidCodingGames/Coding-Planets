@@ -21,4 +21,12 @@
         <td> <img src="03_03.png" alt="Loop - 3" width="70%"> </td>
         <td> <img src="03_04.png" alt="Loop - 4" width="70%"> </td>
     </tr>
+    <tr align="center" valign="middle">
+        <td> <h3>Loop - 5</h3> </td>
+        <td> <h3>Loop - 6</h3> </td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td> <img src="03_05.png" alt="Loop - 5" width="70%"> </td>
+        <td> <img src="03_06.png" alt="Loop - 6" width="70%"> </td>
+    </tr>
 </table>

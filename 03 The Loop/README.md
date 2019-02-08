@@ -37,4 +37,12 @@
         <td> <img src="03_07.png" alt="Loop - 7" width="70%"> </td>
         <td> <img src="03_08.png" alt="Loop - 8" width="70%"> </td>
     </tr>
+    <tr align="center" valign="middle">
+        <td> <h3>Loop - 9</h3> </td>
+        <td> <h3>Loop - 10</h3> </td>
+    </tr>
+    <tr align="center" valign="middle">
+        <td> <img src="03_09.png" alt="Loop - 9" width="70%"> </td>
+        <td> <img src="03_10.png" alt="Loop - 10" width="70%"> </td>
+    </tr>
 </table>
